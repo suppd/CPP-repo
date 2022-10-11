@@ -1,0 +1,3 @@
+﻿  Sfml Lab2.cpp
+C:\Users\edwin\Documents\CMGT\C++\C++(2022)\Sfml Lab2\Sfml Lab2.cpp(26,45): warning C4305: 'argument': truncation from 'double' to 'float'
+  Sfml Lab2.vcxproj -> C:\Users\edwin\Documents\CMGT\C++\C++(2022)\Sfml Lab2\Debug\Sfml Lab2.exe
